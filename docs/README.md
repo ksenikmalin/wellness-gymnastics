@@ -1,3 +1,3 @@
 | Файл | Комментарии |
 | ---- | ----------- |
-| [GymnasticExercises.docx](https://github.com/Dmitriy-Tkachenko/pd/blob/master/Pd/docs/Analiz_TsA_i_Tablitsy_Empatii.docx) | Гимнастика для глаз |
+| [GymnasticExercises.docx](https://github.com/Dmitriy-Tkachenko/wellness-gymnastics/blob/master/docs/GymnasticExercises.docx | Оздоровительная гимнастика |
