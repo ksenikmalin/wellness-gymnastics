@@ -10,5 +10,5 @@
 | [8. Выпады.png](https://github.com/Dmitriy-Tkachenko/wellness-gymnastics/blob/master/docs/8.%20%D0%92%D1%8B%D0%BF%D0%B0%D0%B4%D1%8B.png) | Изображение для упражнения 8 |
 | [9. Приседания.png](https://github.com/Dmitriy-Tkachenko/wellness-gymnastics/blob/master/docs/9.%20%D0%9F%D1%80%D0%B8%D1%81%D0%B5%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F.png) | Изображение для упражнения 9 |
 | [10. Отжимания.png](https://github.com/Dmitriy-Tkachenko/wellness-gymnastics/blob/master/docs/10.%20%D0%9E%D1%82%D0%B6%D0%B8%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F.png) | Изображение для упражнения 10 |
-| [Заставка.png](https://github.com/Dmitriy-Tkachenko/wellness-gymnastics/blob/master/docs/%D0%97%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0.png) | Заставка для укреплнения мышц тела |
+| [Заставка.png](https://github.com/Dmitriy-Tkachenko/wellness-gymnastics/blob/master/docs/%D0%97%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0.png) | Заставка для укрепления мышц тела |
 | [GymnasticExercises.docx](https://github.com/Dmitriy-Tkachenko/wellness-gymnastics/blob/master/docs/GymnasticExercises.docx) | Оздоровительная гимнастика |
